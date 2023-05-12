@@ -1,4 +1,4 @@
-# PUSL2020_GroupProject - A website that manages garbage collection
+# PUSL2020_GroupProject - A Website that Manages Garbage Collection
 
 Installation/Setup
 
